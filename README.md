@@ -1,16 +1,22 @@
 # 🧠 MindForge
 
-Explore the Live Demo: https://mindforge-6548.ai.studio/dashboard
+**Think Independently. Research Intelligently. Solve Creatively.**
 
-Connect on me on Linkden : https://www.linkedin.com/in/abhay-kushwaha-21b2b7394/
+🌐 **Explore the Live Demo:** https://mindforge-6548.ai.studio/dashboard
+
+💻 **GitHub Repository:** https://github.com/abhay-kushwaha01/Mindforge
+
+👤 **Connect with me on LinkedIn:** https://www.linkedin.com/in/abhay-kushwaha-21b2b7394/
+
+---
 
 ## 📌 About the Project
 
-**MindForge** is an AI-powered critical thinking and problem-solving platform designed to help users develop independent reasoning, creativity, and analytical skills.
+**MindForge** is an AI-powered critical-thinking and problem-solving platform designed to help users develop independent reasoning, creativity, and analytical skills.
 
-In a world where AI-generated answers are becoming increasingly accessible, MindForge encourages people to think for themselves instead of simply accepting ready-made solutions.
+In a world where AI-generated answers are increasingly accessible, MindForge encourages people to think independently rather than simply accepting ready-made solutions.
 
-The platform combines daily thinking challenges, AI-powered feedback, and web research through TinyFish to encourage users to explore information, evaluate ideas, and build evidence-based solutions.
+The platform combines daily thinking challenges, AI-powered feedback, and web research through TinyFish to encourage users to explore information, evaluate ideas, and develop evidence-based solutions.
 
 Our goal is simple: **use AI to strengthen human thinking, not replace it.**
 
@@ -31,7 +37,7 @@ MindForge aims to address these challenges through regular practice, actionable 
 
 MindForge provides a learning environment where users can attempt challenges, develop their own solutions, explore relevant web research, and improve their thinking through feedback.
 
-Rather than focusing only on final answers, the platform aims to make the **thinking process** an important part of learning.
+Rather than focusing only on final answers, the platform makes the **thinking process** an important part of learning.
 
 ## ✨ Key Features
 
@@ -42,7 +48,7 @@ Open-ended questions and problem-solving tasks designed to encourage logical rea
 Feedback and suggestions intended to help users identify areas for improvement and refine their solutions.
 
 ### 🔍 TinyFish Web Research
-Web research integration that helps users discover relevant information and source links to support their reasoning.
+Web research integration intended to help users discover relevant information and source links to support their reasoning.
 
 ### 📈 Progress Tracking
 A way to follow completed challenges and monitor learning progress over time.
@@ -53,19 +59,19 @@ A competitive element intended to encourage participation and consistent practic
 ### 💭 Evidence-Based Problem-Solving
 Encourages users to combine their own ideas with research and logical reasoning when developing solutions.
 
-> Note: Feature availability depends on the current prototype implementation. Some capabilities may still be under development.
+> **Note:** Feature availability depends on the current prototype implementation. Some capabilities may still be under development.
 
 ## ⚙️ How It Works
 
 1. **Choose a Challenge** — Explore a thinking challenge or problem.
 2. **Develop Your Solution** — Analyse the problem and create your own approach.
-3. **Explore Research** — Use TinyFish web research to find relevant information and sources.
+3. **Explore Research** — Use available TinyFish web research to find relevant information and sources.
 4. **Review Feedback** — Use available feedback to identify opportunities to improve.
 5. **Learn and Improve** — Practise regularly and track your progress where supported.
 
 ## 🔎 TinyFish API Integration
 
-MindForge uses TinyFish web research to help users explore information relevant to their challenges.
+MindForge is designed to use TinyFish web research to help users explore information relevant to their challenges.
 
 The intended research flow is:
 
@@ -75,6 +81,8 @@ The intended research flow is:
 4. Users explore the sources and use the information to support their own reasoning.
 
 API credentials should remain on the server side and be stored securely in environment variables.
+
+> The integration flow should be verified against the actual implementation before being described as fully operational.
 
 ## 🛠️ Technology Stack
 
@@ -92,36 +100,36 @@ API credentials should remain on the server side and be stored securely in envir
 
 ## 🏗️ Application Architecture
 
-The intended high-level flow is:
+The intended high-level research flow is:
 
 ```text
-          ┌─────────────────────┐
-          │        User         │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │   React Frontend    │
-          │ Challenges & UI     │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │   Express Backend   │
-          │ Request Validation  │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │   TinyFish API      │
-          │    Web Research     │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │ Research Results    │
-          │ & Source Links      │
-          └─────────────────────┘
+         ┌─────────────────────┐
+         │        User         │
+         └──────────┬──────────┘
+                    │
+                    ▼
+         ┌─────────────────────┐
+         │   React Frontend    │
+         │ Challenges & UI     │
+         └──────────┬──────────┘
+                    │
+                    ▼
+         ┌─────────────────────┐
+         │   Express Backend   │
+         │ Request Validation  │
+         └──────────┬──────────┘
+                    │
+                    ▼
+         ┌─────────────────────┐
+         │    TinyFish API     │
+         │    Web Research     │
+         └──────────┬──────────┘
+                    │
+                    ▼
+         ┌─────────────────────┐
+         │  Research Results   │
+         │   & Source Links    │
+         └─────────────────────┘
 ```
 
 This diagram illustrates the intended research flow; the actual implementation may differ.
@@ -159,7 +167,7 @@ For TinyFish research functionality, the configuration may include:
 TINYFISH_API_KEY=your_tinyfish_api_key
 ```
 
-Use the environment file and variable names expected by the actual application. Do not upload real API keys to GitHub.
+Use the environment file and variable names expected by the actual application. Never upload real API keys to GitHub.
 
 ### 4. Start the Development Server
 
@@ -194,22 +202,13 @@ These are potential future improvements, not claims that every feature is alread
 
 ## 🎓 Target Audience
 
-- **Students:** Develop critical thinking and creative problem-solving skills.
+- **Students:** Develop critical-thinking and creative problem-solving skills.
 - **Self-Learners:** Practise independent reasoning through regular challenges.
 - **Educators:** Support analytical learning and problem-solving exercises.
 - **Critical Thinkers:** Explore different perspectives and evaluate evidence.
 - **Problem Solvers:** Apply research and logic to real-world problems.
 
 ## 👥 Team Web4Nerve
-
-Developed for **HackIIITD 2026**.
-
-| Team Member |
-|---|
-| Abhay Kushwaha |
-| Abhay Narain |
-| Aditya Mishra |
-| Aaditay Dutt |
 
 ## 🔗 Project Links
 
