@@ -1,6 +1,7 @@
 # 🧠 MindForge
 
 Explore the Live Demo: https://mindforge-6548.ai.studio/dashboard
+Connect on me on Linkden : https://www.linkedin.com/in/abhay-kushwaha-21b2b7394/
 
 ## 📌 About the Project
 
