@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/6ba86ecd-66b3-466d-9585-8cfebd2602a4
+View website: (https://mindforge-6548.ai.studio/dashboard)
 
 ## Run Locally
 
