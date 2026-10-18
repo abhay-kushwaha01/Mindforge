@@ -1,0 +1,6 @@
+{
+  "name": "MindForge",
+  "description": "Forge a Sharper Mind. AI-powered critical-thinking and problem-solving platform helping people develop logical reasoning, analytical thinking, and decision-making through daily challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
