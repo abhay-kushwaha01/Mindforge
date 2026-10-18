@@ -4,6 +4,8 @@
 
 🌐 **Explore the Live Demo:** https://mindforge-6548.ai.studio/dashboard
 
+🎥 **Watch Our MindForge Demo Video on YouTube:** https://youtu.be/ogMBQkEGqBY
+
 💻 **GitHub Repository:** https://github.com/abhay-kushwaha01/Mindforge
 
 👤 **Connect with me on LinkedIn:** https://www.linkedin.com/in/abhay-kushwaha-21b2b7394/
@@ -214,6 +216,7 @@ These are potential future improvements, not claims that every feature is alread
 
 - **Live Prototype:** [Open MindForge](https://mindforge-6548.ai.studio/dashboard)
 - **GitHub Repository:** [abhay-kushwaha01/Mindforge](https://github.com/abhay-kushwaha01/Mindforge)
+-  **Watch Our MindForge Demo Video on YouTube:** https://youtu.be/ogMBQkEGqBY
 
 ---
 
