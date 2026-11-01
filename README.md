@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 About the Project
+## 📌 About the Project  
 
 **MindForge** is an AI-powered critical-thinking and problem-solving platform designed to help users develop independent reasoning, creativity, and analytical skills.
 
