@@ -1,4 +1,4 @@
-# 🧠 MindForge          
+# 🧠 MindForge            
 
 **Think Independently. Research Intelligently. Solve Creatively.**
 
